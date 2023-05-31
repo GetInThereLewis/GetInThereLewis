@@ -6,7 +6,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,13 +30,9 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 
 
-<img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/>
+
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
